@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yoav-David-27-12-2019/static/css/main.1729fbe4.chunk.css",
+    "main.js": "/Yoav-David-27-12-2019/static/js/main.a6ac4aad.chunk.js",
+    "main.js.map": "/Yoav-David-27-12-2019/static/js/main.a6ac4aad.chunk.js.map",
+    "runtime-main.js": "/Yoav-David-27-12-2019/static/js/runtime-main.e2f9bf24.js",
+    "runtime-main.js.map": "/Yoav-David-27-12-2019/static/js/runtime-main.e2f9bf24.js.map",
+    "static/js/2.1245ee9c.chunk.js": "/Yoav-David-27-12-2019/static/js/2.1245ee9c.chunk.js",
+    "static/js/2.1245ee9c.chunk.js.map": "/Yoav-David-27-12-2019/static/js/2.1245ee9c.chunk.js.map",
+    "index.html": "/Yoav-David-27-12-2019/index.html",
+    "precache-manifest.388bf7d2b8388826d22b8448d055c505.js": "/Yoav-David-27-12-2019/precache-manifest.388bf7d2b8388826d22b8448d055c505.js",
+    "service-worker.js": "/Yoav-David-27-12-2019/service-worker.js",
+    "static/css/main.1729fbe4.chunk.css.map": "/Yoav-David-27-12-2019/static/css/main.1729fbe4.chunk.css.map",
+    "static/js/2.1245ee9c.chunk.js.LICENSE": "/Yoav-David-27-12-2019/static/js/2.1245ee9c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f9bf24.js",
+    "static/js/2.1245ee9c.chunk.js",
+    "static/css/main.1729fbe4.chunk.css",
+    "static/js/main.a6ac4aad.chunk.js"
+  ]
+}
